@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Legislation Tracker
 
 A comprehensive web application that tracks recent bills and committee activity in the U.S. Congress using the Congress.gov API.
