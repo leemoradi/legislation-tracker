@@ -28,7 +28,7 @@ python live_update.py
 python monthly_reset.py
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 legislation-tracker/
@@ -162,30 +162,6 @@ This will start the smart scheduler that handles both daily updates and monthly 
   }
 }
 ```
-
-## Recent Improvements
-
-### ✅ Implemented
-- **Interactive Runner**: New `run.py` with menu interface
-- **Test Data Integration**: Automatic fallback when API fails
-- **Dual Chamber Fetching**: Now pulls bills from both House and Senate
-- **Committee Analysis**: New dataset tracking committee activity and bill processing
-- **Enhanced Statistics**: Shows total bills, House bills, Senate bills, and committee metrics
-- **Improved UI**: Modern card-based layout with better styling
-- **Committee Visualizations**: Activity charts and type distribution
-- **Better Data Organization**: Structured JSON with summary statistics
-- **Automatic Scheduling**: Daily updates and monthly resets
-- **Clean User Interface**: No file listings, direct dashboard access
-- **Combined Data Fetching**: Single script for bills and committees
-
-### Future Enhancements
-- **Interactive Filtering**: Filter by time range or topic
-- **Deployment**: GitHub Pages or Netlify deployment
-- **Bill Details**: Click to view full bill information
-- **Search Functionality**: Search bills by title or sponsor
-- **Email Notifications**: Get notified of new bills
-- **Historical Data**: Track bills over time
-- **Committee Details**: Deep dive into specific committee activity
 
 ## API Usage
 
